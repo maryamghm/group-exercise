@@ -14,18 +14,8 @@
 - Spring Framework (Spring Boot)
 - Hibernate (ORM for Java)
 - RESTful APIs
-- Microservices Architecture
-- Docker & Kubernetes
-- Cloud Platforms (AWS, Azure)
-- Maven & Gradle (Build Tools)
-- Jenkins (Continuous Integration)
-- Apache Kafka (Messaging Queue)
-- Redis (In-memory Data Store)
-- GraphQL (Query Language for APIs)
-- MySQL & PostgreSQL (Relational Databases)
-- MongoDB (NoSQL Database)
-- Git & GitHub (Version Control)
-- JUnit & iockito (Testing Frameworks)
 
 ##Interesting thing happening right now:
 - Resolving the merge conflicts! :D
+
+What do you mean by resolving the conflicts? :D
