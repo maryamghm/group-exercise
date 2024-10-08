@@ -28,4 +28,4 @@
 - JUnit & iockito (Testing Frameworks)
 
 ##Interesting thing happening right now:
-- Resolving the merge conflicts! :D
+- Resolving the merge conflicts! :))
