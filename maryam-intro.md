@@ -1,6 +1,6 @@
 # Maryam Ghayoumi
 
-##Country of origin:
+## Country of origin:
 - Iran
 
 ## Technologies I am Familiar With:
@@ -15,7 +15,6 @@
 - Hibernate (ORM for Java)
 - RESTful APIs
 
-##Interesting thing happening right now:
+## Interesting thing happening right now:
 - Resolving the merge conflicts! :D
 
-What do you mean by resolving the conflicts? :D
