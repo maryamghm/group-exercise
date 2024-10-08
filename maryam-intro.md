@@ -1,6 +1,6 @@
 # Maryam Ghayoumi
 
-##Country of origin:
+## Country of origin:
 - Iran
 
 ## Technologies I am Familiar With:
@@ -28,4 +28,4 @@
 - JUnit & iockito (Testing Frameworks)
 
 ##Interesting thing happening right now:
-- Resolving the merge conflicts! :D
+- Resolving the merge conflicts! :))
